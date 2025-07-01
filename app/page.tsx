@@ -44,7 +44,7 @@ export default async function Home() {
       </div>
       <div className="bg-white rounded-lg shadow-sm divide-y divide-gray-200">
         {jobs.length === 0 ? (
-          <p className="p-6 text-gray-500 text-center">
+          <p className="p-6 mb-3 text-gray-500 text-center">
             No jobs available at the moment.
           </p>
         ) : (
