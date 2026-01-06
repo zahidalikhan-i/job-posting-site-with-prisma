@@ -8,7 +8,7 @@ npm install
 
 set up database online in neon.com
 
-and pastE that link in .env file in   DATABASE_URL=''
+and paste that link in .env file in   DATABASE_URL=''
 
 and also create github connection by adding these lines in .env.local
 
